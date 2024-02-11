@@ -5,7 +5,7 @@ Many individuals hesitate to seek therapy due to societal taboos and fear of jud
 **Solution**
 Our platform addresses the stigma surrounding mental health with accessible and affordable online therapy sessions. Powered by advanced AI, CNN, we offer therapists real-time emotional insights for personalized care. Users benefit from the extended website features, enhancing their well-being beyond therapy.
 
-#Improvment after mentorship
+***Improvment after mentorship***
 **Added a chatbot** used openai api chatbase.co for integrating a chatbot that is empathetic and friendly.
 **Improved Accracy** added more data which improved accuracy from 63% to 67%.
 **Dataset links** 
